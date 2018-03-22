@@ -2,6 +2,8 @@
 
 > Git implemented in EcmaScript
 
+**[Online demo](https://es-git-examples.mariusgundersen.net/push.html)** showing how to pull, commit and push changes
+
 ## Example
 
 This basic example shows how to do low-level manipulation of an in-memory repository
